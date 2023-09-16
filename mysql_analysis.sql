@@ -1,3 +1,4 @@
+CREATE DATABASE SALARYDB;
 USE SALARYDB;
 
 -- 1	Show all columns and rows in the table.
