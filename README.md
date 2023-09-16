@@ -1,2 +1,2 @@
-# Data-Analysis-using-MySQL-on-a-kaggle-salary-dataset
+# Data-Analysis-using-MySQL
 MySQL
